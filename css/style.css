@@ -1,3 +1,89 @@
 h1{
-    color: aquamarine;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+    font-family: arial,helvetica;
+}
+main#parrallax2 {
+    background-image: url(../assets/fonts/descarga\ \(6\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+}
+.fondo {
+    background-image: url(../assets/fonts/descarga\ \(3\).jfif);
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fondo1 {
+    background-image: url(../assets/fonts/images.jfif);
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fondo2 {
+    background-image: url(../assets/fonts/14435327_1128179883927515_5010788289481535641_o.jpg);
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main#parrallax {
+    background-image: url(../assets/fonts/descarga.jfif);
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#galeria img {
+    width: 100%;
+    height: 250px;
+}
+#galeria .col-lg-4 {
+    padding: 25px;
+}
+.img {
+    width: 120px;
+    height: 140px;
+    
+    padding: 100px 90px 0px 90px;
+}
+.img2 {
+    width: 180px;
+    height: 200px;
+    
+    padding: 10px 50px 0px 50px;
+}
+.img3 {
+    width: 160px;
+    height: 190px;
+    
+    padding: 30px 40px 0px 40px;
+}
+.img4 {
+    width: 90px;
+    height: 170px;
+    
+    padding: 40px 100px 0px 100px;
+}
+.img5 {
+    width: 160px;
+    height: 90px;
+    padding: 100px 50px 0px 50px;
+    
+    
+}
+.img6 {
+    width: 60px;
+    height: 190px;
+    
+    padding: 10px 120px 0px 120px;
 }
